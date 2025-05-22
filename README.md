@@ -22,11 +22,12 @@ GET /api/transactions/summary?year=YYYY&month=MM - Get summary by month
 ## Screenshots
 
 ### Home Page
-![Home Page](ScreenShots/home.png)
+(ScreenShots/home.png)
 
-### Transactions API Result
+
 ![Transactions](ScreenShots/transactions.png)
 
-### Summary API Result
+![Database](https://github.com/user-attachments/assets/21ee31a3-c346-403b-b6a7-05f2b3e53bcc)
+
 ![Summary](ScreenShots/summary.png)
 
