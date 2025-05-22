@@ -21,13 +21,15 @@ DELETE /api/transactions/{id} - Delete transaction
 GET /api/transactions/summary?year=YYYY&month=MM - Get summary by month
 ## Screenshots
 
-### Home Page
+### Transactions##GET
 (ScreenShots/home.png)
 
-
+###POST
 ![Transactions](ScreenShots/transactions.png)
 
+###DB
 ![Database](https://github.com/user-attachments/assets/21ee31a3-c346-403b-b6a7-05f2b3e53bcc)
 
+##CSV
 ![Summary](ScreenShots/summary.png)
 
